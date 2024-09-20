@@ -8,7 +8,7 @@ let header = document.querySelector('header');
 
 document.addEventListener('DOMContentLoaded', () => {
     const typed = new Typed('.multiple-text', {
-        strings: ['Full Stack Web Developer', 'With a Focus On', 'Frontend Development'],
+        strings: ['Fullstack Web Developer', 'Focused on Frontend development'],
         typeSpeed: 100,
         backSpeed: 100,
         backDelay: 1000,
